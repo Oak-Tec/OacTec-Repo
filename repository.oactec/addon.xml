@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.oactec" name="Oaktec repo" version="1.0" provider-name="Oaktec"> <extension point="xbmc. addon.repository" name="Oaktec">
+<info compressed="false">/addons.xml</info>
+<checksum>addons.xm.md5</checksum> <datadir zip="true"</datadir>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary></summary>
+<description>Zugang zu ein collen Build wer weis fileich kommt noch irgent wann ein neuer Build</description>
+<platform>all</platform>
+</extension>
+-</addon
