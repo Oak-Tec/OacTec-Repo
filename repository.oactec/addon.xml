@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.oactec" name="Oaktec repo" version="1.0" provider-name="Oaktec"> <extension point="xbmc. addon.repository" name="Oaktec">
-<info compressed="false">https://github.com/Oak-Tec/source.git/</info>
+<info compressed="false">https://github.com/Oak-Tec/source/blob/main/Plugin/addon.xml</info>
 <checksum>addons.xm.md5</checksum> <datadir zip="true"</datadir>
 </extension>
 <extension point="xbmc.addon.metadata">
